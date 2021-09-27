@@ -8,6 +8,7 @@
 		<version>2.5.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
+	<packaging>war</packaging>
 	<groupId>com.spring.first.project</groupId>
 	<artifactId>firstProject</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
